@@ -68,10 +68,10 @@ Implementation steps (from concept to completion):
 - Portals: IBC-Relays.
 - Spaceships: InterChain NFTs with data update capabilities within the NFT.
 - Resources: Coins from Space Ecosystem projects.
-- Ship Components (e.g., Cargo Bay, Energy Generator): Smart contracts associated with Liquidity Pools on Cosmos Ecosystem DEXs like Osmosis, JunoSwap, SifChain Dex, Crescent, and Cyber.
+- Ship Components (e.g., Cargo Bay, Energy Generator): Smart contracts associated with Liquidity Pools on Cosmos Ecosystem DEXs like Osmosis, JunoSwap, SifChain Dex, Skip:GO, Crescent, and Cyber.
 - Space Base: Smart contracts associated with Liquidity Pools on DEXs outside the Space Ecosystem, including Persistence, Umee, and EVMOS.
 - Space Port: A place to purchase or exchange Spaceships - OmniFlix, Stargaze, AssetMantl, Aura Network.
-- Trading Ports: Space Ecosystem DEXs - Osmosis, JunoSwap, SifChain Dex, Crescent, Cyber.
+- Trading Ports: Space Ecosystem DEXs - Osmosis, JunoSwap, SifChain Dex, Skip:GO, Crescent, Cyber.
 - Maintenance Stations for ship upgrades: DEXes + NFT projects.
 
 ## Game Process
