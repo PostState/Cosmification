@@ -1,4 +1,4 @@
-# Cosmic Voyager
+# Cosmification - Global Space Adventure with interchain back-end
 
 ## Main Idea
 
