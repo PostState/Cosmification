@@ -9,7 +9,7 @@ The Cosmic Voyager game aims to align the interests of players with those of pro
 - Players seek enjoyment and the opportunity to gain new knowledge and rewards.
 - Projects aim to popularize their ideas, explain their functionality, and attract real users.
 
-Cosmic Voyager gamifies the learning process, providing players with insights into staking, liquid staking, liquidity pools, and farming in a gaming format.
+Cosmification gamifies the learning process, providing players with insights into staking, liquid staking, liquidity pools, and farming in a gaming format.
 
 DeFi concepts are often poorly understood. For instance, describing the process of liquidity mining as "Send Token-A with Token-B to the Liquidity Pool and you will receive PL tokens that you can hold to receive Token-B, which you can exchange for other tokens!" is accurate but lacks clarity.
 
